@@ -1,0 +1,5 @@
+﻿  ServerS.cpp
+C:\Users\mrsli\source\repos\tcp chat with packet\Server\ServerS\ServerS.cpp(133,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mrsli\source\repos\tcp chat with packet\Server\ServerS\ServerS.cpp(138,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mrsli\source\repos\tcp chat with packet\Server\ServerS\ServerS.cpp(145,79): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  ServerS.vcxproj -> C:\Users\mrsli\source\repos\tcp chat with packet\Server\x64\Debug\ServerS.exe

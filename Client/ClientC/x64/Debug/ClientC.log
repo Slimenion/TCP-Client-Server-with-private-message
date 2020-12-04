@@ -1,0 +1,7 @@
+﻿  ClientC.cpp
+C:\Users\mrsli\source\repos\tcp chat with packet\Client\ClientC\ClientC.cpp(124,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mrsli\source\repos\tcp chat with packet\Client\ClientC\ClientC.cpp(150,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mrsli\source\repos\tcp chat with packet\Client\ClientC\ClientC.cpp(151,48): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mrsli\source\repos\tcp chat with packet\Client\ClientC\ClientC.cpp(163,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mrsli\source\repos\tcp chat with packet\Client\ClientC\ClientC.cpp(174,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ClientC.vcxproj -> C:\Users\mrsli\source\repos\tcp chat with packet\Client\x64\Debug\ClientC.exe
